@@ -1,8 +1,8 @@
 ## Welcome to Faizzaidan game development website
 
-This is just a testing website, you better go to my block using https://faizzaidangamedev.wordpress.com
+This is just a testing website, you better go to my [blog](https://faizzaidangamedev.wordpress.com)
 
-Also checkout my github using https://github.com/faizzaidan-dev
+Also checkout my [github](https://github.com/faizzaidan-dev)
 
 
 ### Markdown
